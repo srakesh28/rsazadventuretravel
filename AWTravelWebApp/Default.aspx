@@ -23,7 +23,7 @@
                             <asp:Panel ID="PanelPredictInputs" runat="server" Visible="true">
 
                                 <div class="form-group m-b-30">
-                                    <p>From-Departure-Place</p>
+                                    <p>From</p>
                                     <input class="form-control" type="text" id="tb_from" value="SAN" />
                                 </div>
                                 <div class="form-group m-b-30">
@@ -111,7 +111,7 @@
                         </div>
 
                         <div class="panel-body bg-white">
-                            Sign in to your Power BI account to link your account to this web application
+                            Sign in to your Power -RS BI account to link your account to this web application
                         <p>
                             <asp:Button ID="signInButton" class="btn btn-primary" runat="server" OnClick="signInButton_Click" Text="Sign in to Power BI" />
                         </p>
