@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1><i class="fa fa-send-o text-primary"></i>&nbsp;Smart Travel Booking - RS v1 </h1>
+        <h1><i class="fa fa-send-o text-primary"></i>&nbsp;Smart Travel Booking - RS v2 </h1>
         <p>Predict travel delays based upon our SmartBooking&reg; system</p>
     </div>
 
