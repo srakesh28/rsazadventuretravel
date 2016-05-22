@@ -23,7 +23,7 @@
                             <asp:Panel ID="PanelPredictInputs" runat="server" Visible="true">
 
                                 <div class="form-group m-b-30">
-                                    <p>From</p>
+                                    <p>From-Departure</p>
                                     <input class="form-control" type="text" id="tb_from" value="SAN" />
                                 </div>
                                 <div class="form-group m-b-30">
